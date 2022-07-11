@@ -1,4 +1,4 @@
-### Olá, me chamo Gleydson, bem vindo ao meu repositório 😎
+### Olá, me chamo Gleydson, bem vindo(a) ao meu repositório 😎
 
 - 🔭 Atualmente trabalho como analista de atendimento;
 - 🌱 Estudo analise de sistemas (focado em back end com Python).
